@@ -337,7 +337,7 @@
       "id": "D1",
       "name": "Spiral Notebook - 150 Pages",
       "description": "Pages: 150. Durable spiral binding with vibrant cover. Perfect for daily notes.",
-      "image": "/assets/spiral/spiral_1.png",
+      "image": "/assets/spiral/Spiral_1.png",
       "bestSeller": true,
       "featured": true,
       "amazonLink": "https://www.amazon.in",
@@ -356,18 +356,18 @@
         }
       ],
       "images": [
-        "/assets/spiral/spiral_1.png",
-        "/assets/spiral/spiral_2.png",
-        "/assets/spiral/spiral_3.png",
-        "/assets/spiral/spiral_4.png",
-        "/assets/spiral/spiral_5.png"
+        "/assets/spiral/Spiral_1.png",
+        "/assets/spiral/Spiral_2.png",
+        "/assets/spiral/Spiral_3.png",
+        "/assets/spiral/Spiral_4.png",
+        "/assets/spiral/Spiral_5.png"
       ]
     },
     {
       "id": "D2",
       "name": "Spiral Notebook - 200 Pages",
       "description": "Pages: 200. Durable spiral binding for smooth writing.",
-      "image": "/assets/spiral/spiral_1.png",
+      "image": "/assets/spiral/Spiral_1.png",
       "bestSeller": true,
       "featured": true,
       "amazonLink": "https://www.amazon.in",
@@ -386,18 +386,18 @@
       ],
       "images": [
         
-        "/assets/spiral/spiral_2.png",
-        "/assets/spiral/spiral_3.png",
-        "/assets/spiral/spiral_4.png",
-        "/assets/spiral/spiral_5.png",
-        "/assets/spiral/spiral_1.png"
+        "/assets/spiral/Spiral_2.png",
+        "/assets/spiral/Spiral_3.png",
+        "/assets/spiral/Spiral_4.png",
+        "/assets/spiral/Spiral_5.png",
+        "/assets/spiral/Spiral_1.png"
       ]
     },
     {
       "id": "D3",
       "name": "Spiral Notebook - 300 Pages",
       "description": "Pages: 300. Extra-long spiral notebook for extensive note-taking.",
-      "image": "/assets/spiral/spiral_1.png",
+      "image": "/assets/spiral/Spiral_1.png",
       "bestSeller": false,
       "featured": false,
       "amazonLink": "https://www.amazon.in",
@@ -416,18 +416,18 @@
       ],
       "images": [
         
-        "/assets/spiral/spiral_3.png",
-        "/assets/spiral/spiral_4.png",
-        "/assets/spiral/spiral_5.png",
-        "/assets/spiral/spiral_1.png",
-        "/assets/spiral/spiral_2.png"
+        "/assets/spiral/Spiral_3.png",
+        "/assets/spiral/Spiral_4.png",
+        "/assets/spiral/Spiral_5.png",
+        "/assets/spiral/Spiral_1.png",
+        "/assets/spiral/Spiral_2.png"
       ]
     },
     {
       "id": "D4",
       "name": "Spiral Notebook - 400 Pages",
       "description": "Pages: 400. Extra thick for extensive writing and journaling.",
-      "image": "/assets/spiral/spiral_1.png",
+      "image": "/assets/spiral/Spiral_1.png",
       "bestSeller": false,
       "featured": false,
       "amazonLink": "https://www.amazon.in",
@@ -446,18 +446,18 @@
       ],
       "images": [
        
-        "/assets/spiral/spiral_4.png",
-        "/assets/spiral/spiral_5.png",
-         "/assets/spiral/spiral_1.png",
-        "/assets/spiral/spiral_2.png",
-        "/assets/spiral/spiral_3.png"
+        "/assets/spiral/Spiral_4.png",
+        "/assets/spiral/Spiral_5.png",
+         "/assets/spiral/Spiral_1.png",
+        "/assets/spiral/Spiral_2.png",
+        "/assets/spiral/Spiral_3.png"
       ]
     },
     {
       "id": "D5",
       "name": "Spiral Notebook - 500 Pages",
       "description": "Pages: 500. Ultimate spiral notebook for long-term projects.",
-      "image": "/assets/spiral/spiral_1.png",
+      "image": "/assets/spiral/Spiral_1.png",
       "bestSeller": false,
       "featured": false,
       "amazonLink": "https://www.amazon.in",
@@ -476,11 +476,11 @@
       ],
       "images": [
         
-        "/assets/spiral/spiral_5.png",
-        "/assets/spiral/spiral_1.png",
-        "/assets/spiral/spiral_2.png",
-        "/assets/spiral/spiral_3.png",
-        "/assets/spiral/spiral_4.png"
+        "/assets/spiral/Spiral_5.png",
+        "/assets/spiral/Spiral_1.png",
+        "/assets/spiral/Spiral_2.png",
+        "/assets/spiral/Spiral_3.png",
+        "/assets/spiral/Spiral_4.png"
       ]
     }
   ],
