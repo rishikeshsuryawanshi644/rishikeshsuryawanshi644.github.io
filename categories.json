@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Spiral",
+    "image": "/assets/spiral/spiral_1.png",
+    "label": "Spiral Notebooks"
+  },
+
+  {
+    "name": "A4 Premium Notebooks",
+    "image": "/assets/a4/A4_Premium_Notebook_1.png",
+    "label": "A4 Premium Notebooks"
+  },
+  {
+    "name": "A5 Premium Notebooks",
+    "image": "/assets/a5/A5_Premium_Notebook_1.png",
+    "label": "A5 Premium Notebooks"
+  },
+  {
+    "name": "Xerox",
+    "image": "/assets/product-xerox-CYcFGboT.jpg",
+    "label": "A4 Xerox Paper",
+    "comingSoon": true
+  },
+  {
+    "name": "Sketchbook",
+    "image": "/assets/product-sketchbook-BY1kqnKE.jpg",
+    "label": "Sketch Books",
+    "comingSoon": true
+  },
+  {
+    
+    "name": "Customized",
+    "image": "/assets/customized/custom_2.png",
+    "label": "Customized Notebooks"
+  }
+]

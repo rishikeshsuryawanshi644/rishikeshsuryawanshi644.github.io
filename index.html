@@ -16,7 +16,59 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@SuryawanshiEnterprises" />
     <meta name="twitter:image" content="/assets/logomain.PNG" />
-    <script type="module" crossorigin src="/assets/index-CtsVg31S.js"></script>
+        <script>
+      Promise.all([
+        fetch('/products.json').then(r => r.json()),
+        fetch('/categories.json').then(r => r.json()),
+        fetch('/contacts.json').then(r => r.json())
+      ]).then(([productsData, categoriesData, contactsData]) => {
+          window.SITE_CATEGORIES = categoriesData;
+          window.SITE_CONTACTS = contactsData;
+          
+          let flatProducts = [];
+          for (const [categoryName, categoryProducts] of Object.entries(productsData)) {
+            categoryProducts.forEach(product => {
+              product.category = categoryName;
+              flatProducts.push(product);
+            });
+          }
+          
+          window.SITE_PRODUCTS = flatProducts.map(product => {
+            if (product.priceOptions && product.priceOptions.length > 0) {
+              let html = "<div class='flex flex-col gap-1 mt-1'>";
+              product.priceOptions.forEach((opt, index) => {
+                const isPrimary = index > 0;
+                const colorClass = isPrimary ? "text-primary" : "text-muted-foreground";
+                const fontClass = isPrimary ? "font-medium" : "font-normal";
+                html += `<div class='flex items-center gap-2 ${isPrimary ? "text-primary" : ""}'>
+                  <span class='${colorClass} text-sm ${fontClass}'>${opt.label}:</span>
+                  <s class='${isPrimary ? "opacity-70" : "text-muted-foreground"} text-sm font-normal'>${opt.originalPrice}</s>
+                  <span class='font-bold ${isPrimary ? "" : "text-foreground"} text-lg'>${opt.discountPrice}</span>
+                </div>`;
+              });
+              html += "</div>";
+              product.price = html;
+            }
+            return product;
+          });
+          const s = document.createElement('script');
+          s.type = 'module';
+          s.crossOrigin = 'anonymous';
+          s.src = '/assets/index-CtsVg31S.js?v=' + Date.now();
+          document.head.appendChild(s);
+        })
+        .catch(err => {
+          console.error("Failed to load JSON config", err);
+          window.SITE_PRODUCTS = [];
+          window.SITE_CATEGORIES = [];
+          window.SITE_CONTACTS = {};
+          const s = document.createElement('script');
+          s.type = 'module';
+          s.crossOrigin = 'anonymous';
+          s.src = '/assets/index-CtsVg31S.js?v=' + Date.now();
+          document.head.appendChild(s);
+        });
+</script>
     <link rel="stylesheet" crossorigin href="/assets/index-DnORTIvS.css">
   </head>
 

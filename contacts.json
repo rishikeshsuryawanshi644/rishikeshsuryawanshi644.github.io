@@ -1,0 +1,31 @@
+{
+  "businessName": "Suryawanshi Enterprises",
+  "tagline": "Premium notebooks for thinkers, creators, and students. Manufactured by Suryawanshi Enterprises.",
+  "address": "Madhuban Colony, Ward No. 10, Sausar, District Pandhurna, Madhya Pradesh – 480106, India",
+  "addressShort": "Madhuban Colony, Ward No. 10, Sausar, District Pandhurna, MP – 480106",
+  "email": "suryawanshienterprises0403@gmail.com",
+  "phone": "+91 8770468016",
+  "whatsapp": "918770468016",
+  "founders": [
+    {
+      "role": "Founder",
+      "name": "Rishikesh Suryawanshi"
+    },
+    {
+      "role": "Co-Founder",
+      "name": "Prashant Suryawanshi"
+    }
+  ],
+  "aboutText": "Thinkreal Notebooks, manufactured by Suryawanshi Enterprises, delivers high-quality notebooks designed for durability, smooth writing, and modern aesthetics. Our products are crafted for students, professionals, and creative minds who value performance and style.",
+  "socialLinks": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/thinkreal_notebook"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/share/1C85Au6Ry7/?mibextid=wwXIfr"
+    }
+  ],
+  "copyright": "© 2026 Thinkreal Notebooks by Suryawanshi Enterprises. All rights reserved."
+}

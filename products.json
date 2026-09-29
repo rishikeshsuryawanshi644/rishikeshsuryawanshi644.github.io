@@ -1,0 +1,563 @@
+{
+  "A4 Premium Notebooks": [
+    {
+      "id": "A1",
+      "name": "Premium A4 Notebook – 144 Pages",
+      "price": "₹75",
+      "description": "Single line ruled, smooth writing experience with premium cover design.",
+      "image": "/assets/a4/A4_Premium_Notebook_1.png",
+      "bestSeller": true,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a4/A4_Premium_Notebook_1.png",
+        "/assets/a4/A4_Premium_Notebook_2.png",
+        "/assets/a4/A4_Premium_Notebook_3.png",
+        "/assets/a4/A4_Premium_Notebook_4.png",
+        "/assets/a4/A4_Premium_Notebook_5.png",
+        "/assets/a4/A4_Premium_Notebook_6.png"
+
+      ]
+    },
+    {
+      "id": "A2",
+      "name": "Premium A4 Notebook – 172 Pages",
+      "price": "₹90",
+      "description": "Single line ruled, smooth writing experience with premium cover design.",
+      "image": "/assets/a4/A4_Premium_Notebook_2.png",
+      "bestSeller": true,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        
+        "/assets/a4/A4_Premium_Notebook_2.png",
+        "/assets/a4/A4_Premium_Notebook_3.png",
+        "/assets/a4/A4_Premium_Notebook_4.png",
+        "/assets/a4/A4_Premium_Notebook_5.png",
+        "/assets/a4/A4_Premium_Notebook_6.png",
+        "/assets/a4/A4_Premium_Notebook_1.png"
+
+      ]
+    },
+    {
+      "id": "A3",
+      "name": "A4 Ruled Notebook – 228 Pages",
+      "price": "₹120",
+      "description": "Bright cover with quality single-line ruled pages.",
+      "image": "/assets/a4/A4_Premium_Notebook_3.png",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        
+        "/assets/a4/A4_Premium_Notebook_3.png",
+        "/assets/a4/A4_Premium_Notebook_4.png",
+        "/assets/a4/A4_Premium_Notebook_5.png",
+        "/assets/a4/A4_Premium_Notebook_6.png",
+        "/assets/a4/A4_Premium_Notebook_1.png",
+        "/assets/a4/A4_Premium_Notebook_2.png"
+      ]
+    },
+    {
+      "id": "A4",
+      "name": "A4 Ruled Notebook – 292 Pages",
+      "price": "₹150",
+      "description": "Bright cover with quality single-line ruled pages.",
+      "image": "/assets/a4/A4_Premium_Notebook_4.png",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a4/A4_Premium_Notebook_4.png",
+        "/assets/a4/A4_Premium_Notebook_5.png",
+        "/assets/a4/A4_Premium_Notebook_6.png",
+        "/assets/a4/A4_Premium_Notebook_1.png",
+        "/assets/a4/A4_Premium_Notebook_2.png",
+        "/assets/a4/A4_Premium_Notebook_3.png"
+      ]
+    },
+    {
+      "id": "A5",
+      "name": "A4 Ruled Notebook – 372 Pages",
+      "price": "₹180",
+      "description": "Bright cover with quality single-line ruled pages.",
+      "image": "/assets/a4/A4_Premium_Notebook_5.png",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a4/A4_Premium_Notebook_5.png",
+        "/assets/a4/A4_Premium_Notebook_6.png",
+        "/assets/a4/A4_Premium_Notebook_1.png",
+        "/assets/a4/A4_Premium_Notebook_2.png",
+        "/assets/a4/A4_Premium_Notebook_3.png",
+        "/assets/a4/A4_Premium_Notebook_4.png"
+      ]
+    }
+  ],
+  "A5 Premium Notebooks": [
+    {
+      "id": "B1",
+      "name": "Single line A5 Notebook – 84 Pages",
+      "price": "₹35",
+      "description": "Single line ruled, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_1.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png"
+
+      ]
+    },
+    {
+      "id": "B2",
+      "name": "Single line A5 Notebook – 132 Pages",
+      "price": "₹45",
+      "description": "Single line ruled, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_2.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png"
+      ]
+    },
+    {
+      "id": "B3",
+      "name": "Single line A5 Notebook – 172 Pages",
+      "price": "₹60",
+      "description": "Single line ruled, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_3.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png"
+      ]
+    },
+    {
+      "id": "B4",
+      "name": "Double line A5 Notebook – 84 Pages",
+      "price": "₹35",
+      "description": "Double line, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_4.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png"
+      ]
+    },
+    {
+      "id": "B5",
+      "name": "Double line A5 Notebook – 132 Pages",
+      "price": "₹45",
+      "description": "Double line, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_5.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png"
+      ]
+    },
+    {
+      "id": "B6",
+      "name": "Double line A5 Notebook – 172 Pages",
+      "price": "₹60",
+      "description": "Double line, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_6.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png"
+      ]
+    },
+    {
+      "id": "B7",
+      "name": "Four line A5 Notebook – 84 Pages",
+      "price": "₹35",
+      "description": "Four line, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_1.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png"
+      ]
+    },
+    {
+      "id": "B8",
+      "name": "Four line A5 Notebook – 132 Pages",
+      "price": "₹45",
+      "description": "Four line, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_2.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png"
+      ]
+    },
+    {
+      "id": "B9",
+      "name": "Four line A5 Notebook – 172 Pages",
+      "price": "₹60",
+      "description": "Four line, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_3.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png"
+      ]
+    },
+    {
+      "id": "B10",
+      "name": "Square ruled A5 Notebook – 84 Pages",
+      "price": "₹35",
+      "description": "Maths square ruled boxed, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_4.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png"
+      ]
+    },
+    {
+      "id": "B11",
+      "name": "Square ruled A5 Notebook – 132 Pages",
+      "price": "₹45",
+      "description": "Maths square ruled boxed, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_5.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_5.png",
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png"
+      ]
+    },
+    {
+      "id": "B12",
+      "name": "Square ruled A5 Notebook – 172 Pages",
+      "price": "₹60",
+      "description": "Maths square ruled boxed, smooth writing experience with premium cover design.",
+      "image": "/assets/a5/A5_Premium_Notebook_6.png",
+      "bestSeller": false,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "meeshoLink": "https://www.meesho.com",
+      "images": [
+        "/assets/a5/A5_Premium_Notebook_6.png",
+        "/assets/a5/A5_Premium_Notebook_1.png",
+        "/assets/a5/A5_Premium_Notebook_2.png",
+        "/assets/a5/A5_Premium_Notebook_3.png",
+        "/assets/a5/A5_Premium_Notebook_4.png",
+        "/assets/a5/A5_Premium_Notebook_5.png"
+      ]
+    }
+  ],
+  "Spiral": [
+    {
+      "id": "D1",
+      "name": "Spiral Notebook - 150 Pages",
+      "description": "Pages: 150. Durable spiral binding with vibrant cover. Perfect for daily notes.",
+      "image": "/assets/spiral/spiral_1.png",
+      "bestSeller": true,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "meeshoLink": "https://www.meesho.com",
+      "priceOptions": [
+        {
+          "label": "Price of 1",
+          "originalPrice": "₹110",
+          "discountPrice": "₹60"
+        },
+        {
+          "label": "Pack of 6",
+          "originalPrice": "₹660",
+          "discountPrice": "₹349"
+        }
+      ],
+      "images": [
+        "/assets/spiral/spiral_1.png",
+        "/assets/spiral/spiral_2.png",
+        "/assets/spiral/spiral_3.png",
+        "/assets/spiral/spiral_4.png",
+        "/assets/spiral/spiral_5.png"
+      ]
+    },
+    {
+      "id": "D2",
+      "name": "Spiral Notebook - 200 Pages",
+      "description": "Pages: 200. Durable spiral binding for smooth writing.",
+      "image": "/assets/spiral/spiral_1.png",
+      "bestSeller": true,
+      "featured": true,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "priceOptions": [
+        {
+          "label": "Price of 1",
+          "originalPrice": "₹130",
+          "discountPrice": "₹75"
+        },
+        {
+          "label": "Pack of 6",
+          "originalPrice": "₹780",
+          "discountPrice": "₹449"
+        }
+      ],
+      "images": [
+        
+        "/assets/spiral/spiral_2.png",
+        "/assets/spiral/spiral_3.png",
+        "/assets/spiral/spiral_4.png",
+        "/assets/spiral/spiral_5.png",
+        "/assets/spiral/spiral_1.png"
+      ]
+    },
+    {
+      "id": "D3",
+      "name": "Spiral Notebook - 300 Pages",
+      "description": "Pages: 300. Extra-long spiral notebook for extensive note-taking.",
+      "image": "/assets/spiral/spiral_1.png",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "priceOptions": [
+        {
+          "label": "Price of 1",
+          "originalPrice": "₹170",
+          "discountPrice": "₹120"
+        },
+        {
+          "label": "Pack of 3",
+          "originalPrice": "₹510",
+          "discountPrice": "₹349"
+        }
+      ],
+      "images": [
+        
+        "/assets/spiral/spiral_3.png",
+        "/assets/spiral/spiral_4.png",
+        "/assets/spiral/spiral_5.png",
+        "/assets/spiral/spiral_1.png",
+        "/assets/spiral/spiral_2.png"
+      ]
+    },
+    {
+      "id": "D4",
+      "name": "Spiral Notebook - 400 Pages",
+      "description": "Pages: 400. Extra thick for extensive writing and journaling.",
+      "image": "/assets/spiral/spiral_1.png",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "priceOptions": [
+        {
+          "label": "Price of 1",
+          "originalPrice": "₹230",
+          "discountPrice": "₹150"
+        },
+        {
+          "label": "Pack of 3",
+          "originalPrice": "₹690",
+          "discountPrice": "₹449"
+        }
+      ],
+      "images": [
+       
+        "/assets/spiral/spiral_4.png",
+        "/assets/spiral/spiral_5.png",
+         "/assets/spiral/spiral_1.png",
+        "/assets/spiral/spiral_2.png",
+        "/assets/spiral/spiral_3.png"
+      ]
+    },
+    {
+      "id": "D5",
+      "name": "Spiral Notebook - 500 Pages",
+      "description": "Pages: 500. Ultimate spiral notebook for long-term projects.",
+      "image": "/assets/spiral/spiral_1.png",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com",
+      "priceOptions": [
+        {
+          "label": "Price of 1",
+          "originalPrice": "₹260",
+          "discountPrice": "₹200"
+        },
+        {
+          "label": "Pack of 3",
+          "originalPrice": "₹780",
+          "discountPrice": "₹599"
+        }
+      ],
+      "images": [
+        
+        "/assets/spiral/spiral_5.png",
+        "/assets/spiral/spiral_1.png",
+        "/assets/spiral/spiral_2.png",
+        "/assets/spiral/spiral_3.png",
+        "/assets/spiral/spiral_4.png"
+      ]
+    }
+  ],
+  "Xerox": [
+    {
+      "id": "E1",
+      "name": "A4 Xerox Paper – 500 Sheets (75 GSM)",
+      "price": "₹299",
+      "description": "High-quality 75 GSM bright white copier paper. Ideal for printing, photocopying & daily office use.",
+      "image": "/assets/product-xerox-CYcFGboT.jpg",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com"
+    },
+    {
+      "id": "E2",
+      "name": "A4 Xerox Paper – 500 Sheets (80 GSM)",
+      "price": "₹349",
+      "description": "Premium 80 GSM ultra-white paper for laser & inkjet printers. Jam-free smooth finish.",
+      "image": "/assets/product-xerox-CYcFGboT.jpg",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com"
+    }
+  ],
+  "Sketchbook": [
+    {
+      "id": "F1",
+      "name": "Artist Sketchbook – A4 Hardbound 120 Pages",
+      "price": "₹279",
+      "description": "Thick 140 GSM acid-free pages with hardbound cover. Perfect for pencil, charcoal & watercolor.",
+      "image": "/assets/product-sketchbook-BY1kqnKE.jpg",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com"
+    },
+    {
+      "id": "F2",
+      "name": "Pocket Sketchbook – A5 Softcover 80 Pages",
+      "price": "₹149",
+      "description": "Portable A5 sketchbook with premium blank pages. Great for on-the-go sketching & doodling.",
+      "image": "/assets/product-sketchbook-BY1kqnKE.jpg",
+      "bestSeller": false,
+      "featured": false,
+      "amazonLink": "https://www.amazon.in",
+      "flipkartLink": "https://www.flipkart.com"
+    }
+  ],
+  "Customized": [
+    {
+      "id": "G1",
+      "name": "Customized Name and Image Notebook – A5 Hardcover",
+      "price": "₹449",
+      "description": "Premium notebook with your name embossed in gold. Perfect corporate or personal gift.",
+      "image": "/assets/customized/custom_1.png",
+      "bestSeller": false,
+      "featured": false,
+      "images": [
+        "/assets/customized/custom_1.png",
+        "/assets/customized/custom_2.png"
+      ]
+    },
+    {
+      "id": "G2",
+      "name": "Customized Name and Image Notebook – A4 Hardcover",
+      "price": "₹599",
+      "description": "Premium Custom Name and Image printed hardcover notebook. Ideal for corporate branding, events & gifting.",
+      "image": "/assets/customized/custom_2.png",
+      "bestSeller": false,
+      "featured": false,
+      "images": [
+        "/assets/customized/custom_2.png",
+        "/assets/customized/custom_1.png"
+      ]
+    }
+  ]
+}
